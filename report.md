@@ -13,7 +13,7 @@
 ## Описание процесса тестирования
 
 
-В качестве тестовых данных использовались данные по ссылке https://www.freeformatter.com/credit-card-number-generator-validator.html
+[В качестве тестовых данных использовались данные по ссылке](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
 Тестирование производилось в следующем окружении:
 * Windows 10 x64
