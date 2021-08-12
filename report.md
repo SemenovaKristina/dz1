@@ -7,8 +7,8 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/SemenovaKristina/dz1/issues/1
-
+* [IntelliJ IDEA. Консоль выдает результат "Result is FAIL" при вводе в поле String number номер карты с количеством цифр меньше 16](https://github.com/SemenovaKristina/dz1/issues/1)
+* [IntelliJ IDEA. Консоль выдает результат "Result is FAIL" при вводе в поле String number номер карты с количеством цифр больше 16](https://github.com/SemenovaKristina/dz1/issues/2)
 
 ## Описание процесса тестирования
 
